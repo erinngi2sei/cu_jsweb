@@ -1,0 +1,1 @@
+MONGODB_URI="mongodb+srv://hirohiro:<db_password>@jstest.3mop16r.mongodb.net/?retryWrites=true&w=majority&appName=jsTest"
