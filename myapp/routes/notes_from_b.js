@@ -14,7 +14,7 @@ router.use(cors());
 router.get('/', async (req, res) => {
 // データベース、コレクションを指定
 const database = client.db('sample_mflix');
-const notes = database.collection('comments');
+const notes = database.collection('users');
 
 
 // 全てのドキュメントを取得
